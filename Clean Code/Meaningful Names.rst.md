@@ -40,13 +40,13 @@ of a name should correspond to the size of its scope
 
 8. Class Names
 
-  Classes and objects should have noun or noun phrase names like Customer , WikiPage ,
+  Classes and objects should have **noun or noun phrase names** like Customer , WikiPage ,
 Account , and AddressParser . Avoid words like Manager , Processor , Data , or Info in the name
 of a class. A class name should not be a verb.
 
 9. Method Names
 
-  Methods should have verb or verb phrase names like postPayment , deletePage , or save .
+  Methods should have **verb or verb phrase names** like postPayment , deletePage , or save .
 Accessors, mutators, and predicates should be named for their value and prefixed with get ,
 set , and is according to the javabean standard
 
@@ -58,7 +58,7 @@ set , and is according to the javabean standard
 
 12. Don’t Pun(双关)
 
-  add, insert, append 
+  add, insert, append
   TODO: for java's container, e.g, list, set, what do add, insert, append mean?
   
 13. Use Solution Domain Names
