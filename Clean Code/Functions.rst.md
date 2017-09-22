@@ -1,4 +1,4 @@
--functions should be very small
+1. functions should be very small
 -do one thing
 -One Level of Abstraction per Function
 -Reading Code from Top to Bottom: The Stepdown Rule
