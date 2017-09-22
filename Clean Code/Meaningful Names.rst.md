@@ -59,6 +59,7 @@ set , and is according to the javabean standard
 12. Don’t Pun(双关)
 
   add, insert, append
+  
   TODO: for java's container, e.g, list, set, what do add, insert, append mean?
   
 13. Use Solution Domain Names
