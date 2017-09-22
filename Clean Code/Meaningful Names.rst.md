@@ -6,6 +6,7 @@
 should tell you why it exists, what it does, and how it is used. If a name requires a com-
 ment, then the name does not reveal its intent.
   the good examples:
+  '''
   public List<Cell> getFlaggedCells() {
     List<Cell> flaggedCells = new ArrayList<Cell>();
     for (Cell cell : gameBoard)
@@ -13,6 +14,8 @@ ment, then the name does not reveal its intent.
         flaggedCells.add(cell);
     return flaggedCells;
   }
+  '''
+  
 
 2. Avoid Disinformation
   Spelling similar concepts similarly is information. Using inconsistent spellings is dis-
