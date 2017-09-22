@@ -1,3 +1,5 @@
+**Rules For Function**
+
 1. functions should be very small
 2. do one thing
 3. One Level of Abstraction per Function
