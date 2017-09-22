@@ -7,4 +7,8 @@
 
 **journal comment and commenting-out code**
   
-  in my daily work, i have 
+    working in boc, i have seen so many journal comment and commenting-out code existing in 
+    the current source file. every time you change the code, they put journal comment at the 
+    beginning of the source head. as for commenting-out code, they choose to ignore them. 
+    My TM once told me that keep the change smallest. So the file sizes are usually big. 
+   
