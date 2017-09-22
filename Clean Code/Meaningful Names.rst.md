@@ -1,6 +1,7 @@
 **Rules for name**
 
-1. Use Intention-Revealing Names
+## Use Intention-Revealing Names
+
   The name of a variable, function, or class, should answer all the big questions. It
 should tell you why it exists, what it does, and how it is used. If a name requires a com-
 ment, then the name does not reveal its intent.
